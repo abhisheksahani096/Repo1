@@ -1,2 +1,2 @@
 This is sample File1
-Adding contents being in branch1
+Replacing previous contents with new contents being in branch2
